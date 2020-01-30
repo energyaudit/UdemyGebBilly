@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b705e24-afe4-4c93-9cb4-6be69d88003e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1X82iNZEFP9wQ5Tq2dOz70EpjXW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Groovy.GebFirst (1)">
+    <configuration name="GebFirst (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Account.test" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/test/java/Account/GebFirst.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/test/java/Account" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GebFirst" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Account.main" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/main/java/Account/GebFirst.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/main/java/Account" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpockChrome" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Account.main" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/main/java/Account/SpockChrome.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/main/java/Account" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpockFirefox" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Account.main" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/main/java/Account/SpockFirefox.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/main/java/Account" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.GebFirst (1)" />
+        <item itemvalue="Groovy.SpockFirefox" />
+        <item itemvalue="Groovy.SpockChrome" />
+        <item itemvalue="Groovy.GebFirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../GitHub/LoadTest/gatling-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../GitHub/gatling" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b705e24-afe4-4c93-9cb4-6be69d88003e" name="Default Changelist" comment="" />
+      <created>1580413526373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580413526373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="202" key="GridCell.Tab.0.bottom" timestamp="1580414132405">
+      <screen x="0" y="22" width="1440" height="818" />
+    </state>
+    <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.814/-301.-1178.1920.1178@0.22.1440.814" timestamp="1580413611549" />
+    <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.816/-301.-1178.1920.1178@0.22.1440.816" timestamp="1580413672753" />
+    <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.818/-301.-1178.1920.1178@0.22.1440.818" timestamp="1580414132405" />
+    <state width="1340" height="202" key="GridCell.Tab.0.center" timestamp="1580414132404">
+      <screen x="0" y="22" width="1440" height="818" />
+    </state>
+    <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.814/-301.-1178.1920.1178@0.22.1440.814" timestamp="1580413611548" />
+    <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.816/-301.-1178.1920.1178@0.22.1440.816" timestamp="1580413672751" />
+    <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.818/-301.-1178.1920.1178@0.22.1440.818" timestamp="1580414132404" />
+    <state width="1340" height="202" key="GridCell.Tab.0.left" timestamp="1580414132403">
+      <screen x="0" y="22" width="1440" height="818" />
+    </state>
+    <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.814/-301.-1178.1920.1178@0.22.1440.814" timestamp="1580413611548" />
+    <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.816/-301.-1178.1920.1178@0.22.1440.816" timestamp="1580413672750" />
+    <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.818/-301.-1178.1920.1178@0.22.1440.818" timestamp="1580414132403" />
+    <state width="1340" height="202" key="GridCell.Tab.0.right" timestamp="1580414132404">
+      <screen x="0" y="22" width="1440" height="818" />
+    </state>
+    <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.814/-301.-1178.1920.1178@0.22.1440.814" timestamp="1580413611549" />
+    <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.816/-301.-1178.1920.1178@0.22.1440.816" timestamp="1580413672752" />
+    <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.818/-301.-1178.1920.1178@0.22.1440.818" timestamp="1580414132404" />
+  </component>
+</project>
