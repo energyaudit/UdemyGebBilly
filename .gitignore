@@ -3,3 +3,6 @@
 
 # Ignore Gradle build output directory
 build
+#mac file
+src/main/.DS_Store
+
