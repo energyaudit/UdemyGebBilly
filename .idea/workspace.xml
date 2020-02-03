@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b705e24-afe4-4c93-9cb4-6be69d88003e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Account/GroovyVariableExp.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Account/FirstGroovyClass.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Account/ForLoopExample.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Account/ObjectImplementation.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Account/ObjectImplementation1.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +44,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Application.GroovyVariableExp (1)">
-    <configuration name="GroovyVariableExp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Groovy.ObjectImplementation">
+    <configuration name="GroovyVariableExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Account.GroovyVariableExp" />
       <module name="Account.main" />
       <extension name="coverage">
@@ -80,6 +85,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObjectImplementation" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="Account.main" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/main/java/Account/ObjectImplementation.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/main/java/Account" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpockChrome" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="Account.main" />
       <setting name="path" value="file://$PROJECT_DIR$/src/main/java/Account/SpockChrome.groovy" />
@@ -91,24 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpockFirefox" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="Account.main" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/main/java/Account/SpockFirefox.groovy" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/main/java/Account" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GroovyVariableExp (1)" />
+        <item itemvalue="Groovy.ObjectImplementation" />
         <item itemvalue="Application.GroovyVariableExp" />
         <item itemvalue="Groovy.SpockChrome" />
         <item itemvalue="Groovy.GebFirst (1)" />
-        <item itemvalue="Groovy.SpockFirefox" />
       </list>
     </recent_temporary>
   </component>
@@ -137,41 +141,49 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1340" height="202" key="GridCell.Tab.0.bottom" timestamp="1580429421411">
-      <screen x="0" y="22" width="1440" height="811" />
+    <state width="1340" height="202" key="GridCell.Tab.0.bottom" timestamp="1580511426271">
+      <screen x="0" y="22" width="1440" height="822" />
     </state>
-    <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.811@0.22.1440.811" timestamp="1580429421411" />
+    <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.811@0.22.1440.811" timestamp="1580430606332" />
     <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.814/-301.-1178.1920.1178@0.22.1440.814" timestamp="1580413611549" />
     <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.816/-301.-1178.1920.1178@0.22.1440.816" timestamp="1580413672753" />
     <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.818/-301.-1178.1920.1178@0.22.1440.818" timestamp="1580414132405" />
     <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.822/-301.-1178.1920.1178@-301.-1178.1920.1178" timestamp="1580416460389" />
+    <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.822/-301.-1178.1920.1178@0.22.1440.822" timestamp="1580511426271" />
     <state width="1340" height="202" key="GridCell.Tab.0.bottom/0.22.1440.824/-301.-1178.1920.1178@-301.-1178.1920.1178" timestamp="1580416469847" />
-    <state width="1340" height="202" key="GridCell.Tab.0.center" timestamp="1580429421410">
-      <screen x="0" y="22" width="1440" height="811" />
+    <state width="1340" height="202" key="GridCell.Tab.0.center" timestamp="1580511426270">
+      <screen x="0" y="22" width="1440" height="822" />
     </state>
-    <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.811@0.22.1440.811" timestamp="1580429421409" />
+    <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.811@0.22.1440.811" timestamp="1580430606330" />
     <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.814/-301.-1178.1920.1178@0.22.1440.814" timestamp="1580413611548" />
     <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.816/-301.-1178.1920.1178@0.22.1440.816" timestamp="1580413672751" />
     <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.818/-301.-1178.1920.1178@0.22.1440.818" timestamp="1580414132404" />
     <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.822/-301.-1178.1920.1178@-301.-1178.1920.1178" timestamp="1580416460388" />
+    <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.822/-301.-1178.1920.1178@0.22.1440.822" timestamp="1580511426270" />
     <state width="1340" height="202" key="GridCell.Tab.0.center/0.22.1440.824/-301.-1178.1920.1178@-301.-1178.1920.1178" timestamp="1580416469846" />
-    <state width="1340" height="202" key="GridCell.Tab.0.left" timestamp="1580429421409">
-      <screen x="0" y="22" width="1440" height="811" />
+    <state width="1340" height="202" key="GridCell.Tab.0.left" timestamp="1580511426269">
+      <screen x="0" y="22" width="1440" height="822" />
     </state>
-    <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.811@0.22.1440.811" timestamp="1580429421409" />
+    <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.811@0.22.1440.811" timestamp="1580430606329" />
     <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.814/-301.-1178.1920.1178@0.22.1440.814" timestamp="1580413611548" />
     <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.816/-301.-1178.1920.1178@0.22.1440.816" timestamp="1580413672750" />
     <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.818/-301.-1178.1920.1178@0.22.1440.818" timestamp="1580414132403" />
     <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.822/-301.-1178.1920.1178@-301.-1178.1920.1178" timestamp="1580416460387" />
+    <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.822/-301.-1178.1920.1178@0.22.1440.822" timestamp="1580511426269" />
     <state width="1340" height="202" key="GridCell.Tab.0.left/0.22.1440.824/-301.-1178.1920.1178@-301.-1178.1920.1178" timestamp="1580416469845" />
-    <state width="1340" height="202" key="GridCell.Tab.0.right" timestamp="1580429421410">
-      <screen x="0" y="22" width="1440" height="811" />
+    <state width="1340" height="202" key="GridCell.Tab.0.right" timestamp="1580511426270">
+      <screen x="0" y="22" width="1440" height="822" />
     </state>
-    <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.811@0.22.1440.811" timestamp="1580429421410" />
+    <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.811@0.22.1440.811" timestamp="1580430606331" />
     <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.814/-301.-1178.1920.1178@0.22.1440.814" timestamp="1580413611549" />
     <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.816/-301.-1178.1920.1178@0.22.1440.816" timestamp="1580413672752" />
     <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.818/-301.-1178.1920.1178@0.22.1440.818" timestamp="1580414132404" />
     <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.822/-301.-1178.1920.1178@-301.-1178.1920.1178" timestamp="1580416460388" />
+    <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.822/-301.-1178.1920.1178@0.22.1440.822" timestamp="1580511426270" />
     <state width="1340" height="202" key="GridCell.Tab.0.right/0.22.1440.824/-301.-1178.1920.1178@-301.-1178.1920.1178" timestamp="1580416469846" />
+    <state x="269" y="90" key="SettingsEditor" timestamp="1580507300626">
+      <screen x="0" y="22" width="1440" height="826" />
+    </state>
+    <state x="269" y="90" key="SettingsEditor/0.22.1440.826/-301.-1178.1920.1178@0.22.1440.826" timestamp="1580507300626" />
   </component>
 </project>
