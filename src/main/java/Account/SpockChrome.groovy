@@ -4,8 +4,10 @@ import geb.Browser
 import org.openqa.selenium.firefox.FirefoxDriver
 import org.openqa.selenium.chrome.ChromeDriver
 //System.setProperty("webdriver.chrome.driver", "/QA INSTALL/chromedriver");
-System.setProperty("webdriver.chrome.driver", "../../resources/chromedriver");
-//System.setProperty("webdriver.gecko.driver", "/QA INSTALL/geckodriver");
+//System.setProperty("webdriver.chrome.driver", "../../resources/chromedriver");//Mac
+System.setProperty("webdriver.chrome.driver", "../../resources/chromedriver.exe");//Windows
+
+
 //def browser=new Browser(driver:new FirefoxDriver())
 def browser=new Browser(driver:new ChromeDriver())
 browser.go("http://www.51.ca")
